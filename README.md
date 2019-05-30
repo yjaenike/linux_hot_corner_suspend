@@ -8,9 +8,9 @@ My Script places your mouse in the middel of the screen before suspending.
 
 Download the suspend.sh file and put it to your Desktop
 
-# How tp
+# How to
 1. sudo apt-get install xdotool
-2.  sudo cp /home/YOUR_USERNAME/Desktop/suspend.sh /usr/local/bin/
+2. sudo cp /home/YOUR_USERNAME/Desktop/suspend.sh /usr/local/bin/
 3. Enter Password
 4. sudo chmod -x /usr/local/bin/suspend.sh
 5. Open System Settings -> Hot Corner -> Choose Corner "Run a commnd"
